@@ -1,0 +1,9 @@
+2015-05-16 16:09:04,594 [2532] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2015-05-16 16:09:04,640 [2532] DEBUG TelnetServer - The command ADD(Super_StartByConfig.ADD, Super_StartByConfig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-16 16:09:04,640 [2532] DEBUG TelnetServer - The command ECHO(Super_StartByConfig.ECHO, Super_StartByConfig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-16 16:09:04,640 [2532] DEBUG TelnetServer - The command MULT(Super_StartByConfig.MULT, Super_StartByConfig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-05-16 16:09:04,656 [2532] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2015-05-16 16:09:06,122 [2532] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-05-16 16:09:06,122 [2532] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-05-16 16:09:06,154 [2532] DEBUG TelnetServer - Listener (0.0.0.0:2020) was started
+2015-05-16 16:09:06,169 [2532] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!

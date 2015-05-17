@@ -1,0 +1,7 @@
+D:\git\TServer_StartByConfig\bin\Debug\Config\log4net.config
+D:\git\TServer_StartByConfig\bin\Debug\Config\log4net.unix.config
+D:\git\TServer_StartByConfig\bin\Debug\Super_StartByConfig.exe.config
+D:\git\TServer_StartByConfig\bin\Debug\Super_StartByConfig.exe
+D:\git\TServer_StartByConfig\bin\Debug\Super_StartByConfig.pdb
+D:\git\TServer_StartByConfig\obj\Debug\Super_StartByConfig.exe
+D:\git\TServer_StartByConfig\obj\Debug\Super_StartByConfig.pdb
