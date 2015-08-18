@@ -1,39 +1,14 @@
-2015-08-18 17:58:07,726 [8324] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
-2015-08-18 17:58:07,776 [8324] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
-2015-08-18 17:58:09,188 [8324] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
-2015-08-18 17:58:09,188 [8324] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
-2015-08-18 17:58:09,333 [8324] DEBUG TelnetServer - Listener (0.0.0.0:2020) was started
-2015-08-18 17:58:09,338 [8324] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
-2015-08-18 17:59:06,247 [3776] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
-2015-08-18 17:59:06,387 [3776] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
-2015-08-18 18:03:46,772 [4492] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
-2015-08-18 18:03:46,823 [4492] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
-2015-08-18 18:03:48,302 [4492] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
-2015-08-18 18:03:48,302 [4492] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
-2015-08-18 18:03:48,758 [4492] DEBUG TelnetServer - Listener (0.0.0.0:2020) was started
-2015-08-18 18:03:48,762 [4492] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
-2015-08-18 18:04:11,547 [5968] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
-2015-08-18 18:04:11,596 [5968] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
-2015-08-18 18:04:13,007 [5968] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
-2015-08-18 18:04:13,007 [5968] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
-2015-08-18 18:04:13,503 [5968] DEBUG TelnetServer - Listener (0.0.0.0:2020) was started
-2015-08-18 18:04:13,507 [5968] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
-2015-08-18 18:05:33,340 [1828] DEBUG DefaultBootstrap - The server instance TServer has been created!
-2015-08-18 18:05:33,388 [1828] DEBUG DefaultBootstrap - The server instance TServer has been initialized!
-2015-08-18 18:05:34,820 [1828] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
-2015-08-18 18:05:34,820 [1828] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
-2015-08-18 18:05:35,386 [1828] DEBUG TServer - Listener (0.0.0.0:2020) was started
-2015-08-18 18:05:35,390 [1828] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
-2015-08-18 18:06:49,359 [9128] DEBUG DefaultBootstrap - The server instance TServer has been created!
-2015-08-18 18:06:49,407 [9128] DEBUG DefaultBootstrap - The server instance TServer has been initialized!
-2015-08-18 18:06:50,881 [9128] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
-2015-08-18 18:06:50,882 [9128] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
-2015-08-18 18:06:51,005 [9128] DEBUG TServer - Listener (0.0.0.0:2020) was started
-2015-08-18 18:06:51,010 [9128] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
-2015-08-18 18:10:14,132 [8056] DEBUG DefaultBootstrap - The server instance TServer has been created!
-2015-08-18 18:10:14,169 [8056] DEBUG TServer - The command ECHO(Super_StartByConfig.ECHO, Super_StartByConfig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
-2015-08-18 18:10:14,182 [8056] DEBUG DefaultBootstrap - The server instance TServer has been initialized!
-2015-08-18 18:10:15,664 [8056] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
-2015-08-18 18:10:15,664 [8056] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
-2015-08-18 18:10:15,847 [8056] DEBUG TServer - Listener (0.0.0.0:2020) was started
-2015-08-18 18:10:15,851 [8056] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-08-18 20:25:14,853 [3956] DEBUG DefaultBootstrap - The server instance TServer has been created!
+2015-08-18 20:25:14,893 [3956] DEBUG TServer - The command ECHO(Super_StartByConfig.ECHO, Super_StartByConfig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-08-18 20:25:14,906 [3956] DEBUG DefaultBootstrap - The server instance TServer has been initialized!
+2015-08-18 20:25:16,454 [3956] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-08-18 20:25:16,454 [3956] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-08-18 20:25:16,738 [3956] DEBUG TServer - Listener (0.0.0.0:2020) was started
+2015-08-18 20:25:16,742 [3956] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2015-08-18 20:25:29,145 [8852] DEBUG DefaultBootstrap - The server instance TServer has been created!
+2015-08-18 20:25:29,183 [8852] DEBUG TServer - The command ECHO(Super_StartByConfig.ECHO, Super_StartByConfig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2015-08-18 20:25:29,197 [8852] DEBUG DefaultBootstrap - The server instance TServer has been initialized!
+2015-08-18 20:25:30,639 [8852] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2015-08-18 20:25:30,639 [8852] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2015-08-18 20:25:30,731 [8852] DEBUG TServer - Listener (0.0.0.0:2020) was started
+2015-08-18 20:25:30,736 [8852] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!

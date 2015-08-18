@@ -1,14 +1,4 @@
-2015-08-18 17:58:09,334 [8324] INFO  TelnetServer - The server instance TelnetServer has been started!
-2015-08-18 18:03:48,759 [4492] INFO  TelnetServer - The server instance TelnetServer has been started!
-2015-08-18 18:04:13,504 [5968] INFO  TelnetServer - The server instance TelnetServer has been started!
-2015-08-18 18:05:35,386 [1828] INFO  TServer - The server instance TServer has been started!
-2015-08-18 18:05:49,248 [2692] INFO  TServer - Session: 5d076f8b-c963-4ba3-a095-4bf40b48ba78/172.28.11.87:58471
-A new session connected!
-2015-08-18 18:05:59,014 [6840] INFO  TServer - Session: 5d076f8b-c963-4ba3-a095-4bf40b48ba78/172.28.11.87:58471
-This session was closed for ClientClosing!
-2015-08-18 18:06:51,006 [9128] INFO  TServer - The server instance TServer has been started!
-2015-08-18 18:07:02,827 [2652] INFO  TServer - Session: c6a02e87-dd60-43a9-adeb-b51ae8fec2ab/172.28.11.87:58739
-A new session connected!
-2015-08-18 18:10:15,847 [8056] INFO  TServer - The server instance TServer has been started!
-2015-08-18 18:10:17,870 [7000] INFO  TServer - Session: 12caebf1-ceb6-443b-99ba-2585dd6eee1e/172.28.11.87:59429
+2015-08-18 20:25:16,739 [3956] INFO  TServer - The server instance TServer has been started!
+2015-08-18 20:25:30,732 [8852] INFO  TServer - The server instance TServer has been started!
+2015-08-18 20:25:48,390 [8068] INFO  TServer - Session: 8b083ad1-a2aa-4bec-8a5e-457d6b4ded3b/172.28.11.87:25811
 A new session connected!

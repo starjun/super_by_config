@@ -19,9 +19,9 @@ namespace Super_StartByConfig
         {
             switch (requestInfo.Key.ToUpper())
             {
-                case "ECHO":
-                    this.Send(requestInfo.Body);
-                    break;
+                //case "ECHO":
+                //    this.Send(requestInfo.Body);
+                //    break;
                 case "ADD":
                     this.Send(requestInfo.Parameters.Select(p => Convert.ToInt32(p)).Sum().ToString());
                     break;
@@ -53,12 +53,5 @@ namespace Super_StartByConfig
 
 
         
-    }
-    public class ECHO : CommandBase<TSession, StringRequestInfo>
-    {
-        public override void ExecuteCommand(TSession session, StringRequestInfo requestInfo)
-        {
-            session.Send(requestInfo.Body);
-        }
     }
 }

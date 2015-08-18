@@ -1,51 +1,9 @@
-2015-08-18 17:58:09,354 Performance - ---------------------------------------------------
-CPU Usage: 0.00%, Physical Memory Usage: 150,138,880.00, Total Thread Count: 23
-AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
-MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
-TelnetServer ----------------------------------
-Started Time: 2015/8/18 17:58:09
-Is Running: True
-Total Connections: 0
-Maximum Allowed Connection Number: 50000
-Total Handled Requests: 0
-Request Handling Speed (#/second): 0
-Avialable Sending Queue Items: 8,333
-Total Sending Queue Items: 8,333
-
-2015-08-18 18:03:48,786 Performance - ---------------------------------------------------
-CPU Usage: 0.00%, Physical Memory Usage: 372,649,984.00, Total Thread Count: 29
-AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
-MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
-TelnetServer ----------------------------------
-Started Time: 2015/8/18 18:03:48
-Is Running: True
-Total Connections: 0
-Maximum Allowed Connection Number: 50000
-Total Handled Requests: 0
-Request Handling Speed (#/second): 0
-Avialable Sending Queue Items: 8,333
-Total Sending Queue Items: 8,333
-
-2015-08-18 18:04:13,551 Performance - ---------------------------------------------------
-CPU Usage: 0.00%, Physical Memory Usage: 331,309,056.00, Total Thread Count: 29
-AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
-MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
-TelnetServer ----------------------------------
-Started Time: 2015/8/18 18:04:13
-Is Running: True
-Total Connections: 0
-Maximum Allowed Connection Number: 50000
-Total Handled Requests: 0
-Request Handling Speed (#/second): 0
-Avialable Sending Queue Items: 8,333
-Total Sending Queue Items: 8,333
-
-2015-08-18 18:05:35,416 Performance - ---------------------------------------------------
-CPU Usage: 0.00%, Physical Memory Usage: 352,489,472.00, Total Thread Count: 29
+2015-08-18 20:25:16,762 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 238,407,680.00, Total Thread Count: 29
 AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
 MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
 TServer ----------------------------------
-Started Time: 2015/8/18 18:05:35
+Started Time: 2015/8/18 20:25:16
 Is Running: True
 Total Connections: 0
 Maximum Allowed Connection Number: 50000
@@ -54,59 +12,17 @@ Request Handling Speed (#/second): 0
 Avialable Sending Queue Items: 8,333
 Total Sending Queue Items: 8,333
 
-2015-08-18 18:06:51,052 Performance - ---------------------------------------------------
-CPU Usage: 0.00%, Physical Memory Usage: 138,137,600.00, Total Thread Count: 29
+2015-08-18 20:25:30,759 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 100,614,144.00, Total Thread Count: 29
 AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
 MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
 TServer ----------------------------------
-Started Time: 2015/8/18 18:06:51
+Started Time: 2015/8/18 20:25:30
 Is Running: True
 Total Connections: 0
 Maximum Allowed Connection Number: 50000
 Total Handled Requests: 0
 Request Handling Speed (#/second): 0
 Avialable Sending Queue Items: 8,333
-Total Sending Queue Items: 8,333
-
-2015-08-18 18:10:15,875 Performance - ---------------------------------------------------
-CPU Usage: 0.00%, Physical Memory Usage: 179,924,992.00, Total Thread Count: 29
-AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
-MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
-TServer ----------------------------------
-Started Time: 2015/8/18 18:10:15
-Is Running: True
-Total Connections: 0
-Maximum Allowed Connection Number: 50000
-Total Handled Requests: 0
-Request Handling Speed (#/second): 0
-Avialable Sending Queue Items: 8,333
-Total Sending Queue Items: 8,333
-
-2015-08-18 18:11:15,867 Performance - ---------------------------------------------------
-CPU Usage: 0.07%, Physical Memory Usage: 181,641,216.00, Total Thread Count: 30
-AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
-MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
-TServer ----------------------------------
-Started Time: 2015/8/18 18:10:15
-Is Running: True
-Total Connections: 1
-Maximum Allowed Connection Number: 50000
-Total Handled Requests: 7
-Request Handling Speed (#/second): 0
-Avialable Sending Queue Items: 8,332
-Total Sending Queue Items: 8,333
-
-2015-08-18 18:12:15,879 Performance - ---------------------------------------------------
-CPU Usage: 0.01%, Physical Memory Usage: 182,050,816.00, Total Thread Count: 31
-AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
-MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
-TServer ----------------------------------
-Started Time: 2015/8/18 18:10:15
-Is Running: True
-Total Connections: 1
-Maximum Allowed Connection Number: 50000
-Total Handled Requests: 7
-Request Handling Speed (#/second): 0
-Avialable Sending Queue Items: 8,332
 Total Sending Queue Items: 8,333
 
