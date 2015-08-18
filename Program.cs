@@ -12,7 +12,7 @@ namespace Super_StartByConfig
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Press any key to start the server!");
+            Console.WriteLine("start the server!");
 
             //Console.ReadKey();
             Console.WriteLine();

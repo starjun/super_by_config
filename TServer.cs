@@ -7,7 +7,7 @@ using SuperSocket.SocketBase.Config;
 
 namespace Super_StartByConfig
 {
-    public class TelnetServer : AppServer<TelnetSession>
+    public class TServer : AppServer<TSession>
     {
         protected override bool Setup(IRootConfig rootConfig, IServerConfig config)
         {
